@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 793e8809d70f3fb4ba270e8ee5ba956a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: katon-fire_0
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 122
+        width: 42
+        height: 17
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c39d82cc04cf34e88c01a8f38c029d
+      internalID: -243034249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 111
+        width: 87
+        height: 32
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9737099326b0e5b45b9174d62a73617b
+      internalID: 1539346676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 102
+        width: 161
+        height: 42
+      alignment: 9
+      pivot: {x: 0, y: 0.42649132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1017a6d1b690442becbcfafd615424
+      internalID: -682332946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_3
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 97
+        width: 165
+        height: 75
+      alignment: 9
+      pivot: {x: 0, y: 0.1507251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7650c71dfb6f046ab5c2ef2a2f8ed2
+      internalID: 443414933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_4
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 95
+        width: 165
+        height: 88
+      alignment: 9
+      pivot: {x: 0, y: 0.1591672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd66fa88860ac54eb09c35bfb973c59
+      internalID: -1381481696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_5
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 95
+        width: 159
+        height: 92
+      alignment: 9
+      pivot: {x: 0, y: 0.1536099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0a60e96eeb5e14dbbf8e9b534fc5e3
+      internalID: -54664419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 153
+        height: 93
+      alignment: 9
+      pivot: {x: -0.00000014959598, y: 0.13439322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ad8d76e257764fa47998106457d91
+      internalID: 817362981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3
+        width: 156
+        height: 91
+      alignment: 9
+      pivot: {x: 0.0021420014, y: 0.13276048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2615607f1f641d344a3b22c2a3eb68e5
+      internalID: 582479637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 10
+        width: 152
+        height: 75
+      alignment: 9
+      pivot: {x: -0.00000020077354, y: 0.17917931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7708a316cd8d924aa5841bb14777107
+      internalID: -97648073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 124
+        height: 98
+      alignment: 9
+      pivot: {x: 0.0026944068, y: 0.27834457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c97d12068043f445a5cf7e21dcff240
+      internalID: 150461363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 9
+        width: 87
+        height: 77
+      alignment: 9
+      pivot: {x: -0.003841707, y: 0.2482738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763f297c29653b8499cb7fa5c566df90
+      internalID: -215285824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_12
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 8
+        width: 81
+        height: 68
+      alignment: 9
+      pivot: {x: 0.004124771, y: 0.23952974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca72380aa64d7648b6fd8dbcd52bf99
+      internalID: -1433137165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon-fire_16
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 10
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: -0.009260311, y: 0.30085367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa9f43d932c2504da17103f1034aa4d
+      internalID: 81643707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      katon-fire_0: -243034249
+      katon-fire_1: 1539346676
+      katon-fire_10: 150461363
+      katon-fire_11: -215285824
+      katon-fire_12: -1433137165
+      katon-fire_13: 176961163
+      katon-fire_14: -341242944
+      katon-fire_15: 2066238599
+      katon-fire_16: 81643707
+      katon-fire_17: 928226783
+      katon-fire_2: -682332946
+      katon-fire_3: 443414933
+      katon-fire_4: -1381481696
+      katon-fire_5: -54664419
+      katon-fire_6: 817362981
+      katon-fire_7: 582479637
+      katon-fire_8: -97648073
+      katon-fire_9: 839865768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
