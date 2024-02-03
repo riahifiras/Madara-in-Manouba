@@ -2,8 +2,12 @@
 
 Welcome to Uchiha Madara's Adventures in the Mysterious Land of Manouba! This Unity game takes you on a thrilling journey through the enigmatic landscapes of Manouba, a state in Tunisia known for its mysterious history. In this game, you embody the legendary Uchiha Madara from the Naruto universe, exploring the secrets and confronting the challenges that await in this mystical land.
 
+![main](https://github.com/riahifiras/Madara-in-Manouba/assets/120566908/6f92bb34-7cb9-453b-aa79-b242495ffe66)
+
 ## Game Overview
 Uchiha Madara's Adventures in the Mysterious Land of Manouba is an action-adventure game that combines elements of exploration, combat, and puzzle-solving. Players will delve into the depths of the Manouba landscape, encountering various obstacles, enemies, and mysteries to unravel.
+
+![Screenshot 2024-02-03 124814](https://github.com/riahifiras/Madara-in-Manouba/assets/120566908/989fdf50-cc58-450b-ae29-98090e13908b)
 
 ## Features
 ### Immersive Storyline: 
